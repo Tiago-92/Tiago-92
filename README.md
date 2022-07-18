@@ -8,7 +8,7 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://w
 - 💻 Backend: `Nodejs`
 - 🎨 Layout Designer: `Figma`
 - 📦️ Version code control: `Git & Github`
-- 🔧Tool: `VsCode`
+- 🔧 Tool: `VsCode`
 
 #### Contacts
 - 📬 E-mail: tiagoamaralcbei@hotmail.com
