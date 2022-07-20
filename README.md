@@ -1,4 +1,4 @@
-### Hi there, I'am Tiago Amaral 🤓
+### Hi there, I'am Tiago Amaral 👋👋
 
 #### About
 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀
