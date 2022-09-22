@@ -1,13 +1,6 @@
 ### Hi there, I'am Tiago Amaral
 
 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀
-#### Current Stack:
-- ⚡️ Main Language: `JavaScript`
-- 🖌 Frontend: `React`, `HTML5`, `CSS3`, `JavaScript`, `styled-components` 
-- 💻 Backend: `Nodejs`
-- 🎨 Layout Designer: `Figma`
-- 📦️ Version code control: `Git & Github`
-- 🔧 Tool: `VsCode`
 
 <div align="start">
   <a href="https://github.com/Tiago-92">
