@@ -1,7 +1,5 @@
 ### Hi there, I'am Tiago Amaral
 
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀
-
 <div align="start">
   <a href="https://github.com/Tiago-92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago-92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
