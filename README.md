@@ -1,4 +1,13 @@
-### Hi there, I'am Tiago Amaral
+### 👋 Hi there! I'm [seu nome], a Frontend Developer with a passion for creating captivating user experiences.
+
+💻 I specialize in building web applications using React, Next.js, styled-components, Stitches, and Tailwind CSS. With my expertise in these frontend technologies, I strive to create intuitive and visually appealing interfaces.
+
+⚡ Additionally, I have solid knowledge in backend technologies including Node.js, Prisma, Knex, and SQL. This enables me to seamlessly integrate frontend components with robust backend systems, delivering efficient and scalable applications.
+
+🌱 I'm always eager to learn and explore new technologies, constantly striving to enhance my skills and stay up-to-date with the latest industry trends.
+
+📫 Let's connect! Feel free to reach out to me for collaborations or exciting frontend development opportunities.
+
 <br>
 <div align="start">
   <a href="https://github.com/Tiago-92">
