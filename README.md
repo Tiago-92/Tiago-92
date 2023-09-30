@@ -6,8 +6,6 @@
 
 🌱 I'm always eager to learn and explore new technologies, constantly striving to enhance my skills and stay up-to-date with the latest industry trends.
 
-📫 Let's connect! Feel free to reach out to me for collaborations or exciting frontend development opportunities.
-
 <br>
 <div align="start">
   <a href="https://github.com/Tiago-92">
