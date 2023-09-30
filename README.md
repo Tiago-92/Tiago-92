@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Tiago, a Frontend Developer with a passion for creating captivating user experiences.
+### 👋 Hi there! I'm Tiago
 
 💻 I specialize in building web applications using React, Next.js, styled-components, Stitches, and Tailwind CSS. With my expertise in these frontend technologies, I strive to create intuitive and visually appealing interfaces.
 
